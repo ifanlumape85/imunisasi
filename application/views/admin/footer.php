@@ -1,0 +1,2 @@
+<small>
+<strong>Copyright &copy; 2019 <?php echo anchor(base_url(), 'Tax Clearance', array('target' => '_blank')); ?></strong> | <strong><?php echo safe_mailto('ifanlumape@yahoo.co.id', 'Error Reporting'); ?></strong></small>
